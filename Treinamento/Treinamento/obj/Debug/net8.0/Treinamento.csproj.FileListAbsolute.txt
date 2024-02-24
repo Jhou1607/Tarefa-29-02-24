@@ -1,0 +1,15 @@
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.AssemblyInfoInputs.cache
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.AssemblyInfo.cs
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.csproj.CoreCompileInputs.cache
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\bin\Debug\net8.0\Treinamento.exe
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\bin\Debug\net8.0\Treinamento.deps.json
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\bin\Debug\net8.0\Treinamento.runtimeconfig.json
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\bin\Debug\net8.0\Treinamento.dll
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\bin\Debug\net8.0\Treinamento.pdb
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.dll
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\refint\Treinamento.dll
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.pdb
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.genruntimeconfig.cache
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\ref\Treinamento.dll
+C:\Users\Jonathas\source\repos\Treinamento\Treinamento\obj\Debug\net8.0\Treinamento.sourcelink.json
